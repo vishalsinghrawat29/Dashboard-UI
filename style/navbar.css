@@ -213,6 +213,7 @@ img{
     .nav-link{
         width: 100%;
         margin: 0.5rem auto;
+        border-radius: 0;
     }
     .nav-icon{
         width: 8%;
